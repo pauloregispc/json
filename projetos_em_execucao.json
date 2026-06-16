@@ -1,0 +1,23 @@
+[
+    {
+        "nome_projeto":"Robo Industrial",
+        "custo":220000.0,
+        "data_inicio":"2025-03-01",
+        "data_conclusao":"",
+        "nome":"Franciscleydson Silva"
+    },
+    {
+        "nome_projeto":"ERP Financeiro",
+        "custo":90000.0,
+        "data_inicio":"2025-05-01",
+        "data_conclusao":"",
+        "nome":"Han Li"
+    },
+    {
+        "nome_projeto":"Controle Estoque IA",
+        "custo":80000.0,
+        "data_inicio":"2025-06-01",
+        "data_conclusao":"",
+        "nome":"Samus Aran"
+    }
+]
