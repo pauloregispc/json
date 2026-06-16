@@ -1,0 +1,10 @@
+[
+    {
+        "nome_departamento":"Diretoria",
+        "custo_total":150000.0
+    },
+    {
+        "nome_departamento":"Pesquisa e Desenvolvimento",
+        "custo_total":600000.0
+    }
+]

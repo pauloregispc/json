@@ -1,0 +1,10 @@
+[
+    {
+        "nome_departamento":"Diretoria",
+        "media_salario":15000.0
+    },
+    {
+        "nome_departamento":"Pesquisa e Desenvolvimento",
+        "media_salario":3666.67
+    }
+]

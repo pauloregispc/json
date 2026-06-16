@@ -1,0 +1,14 @@
+[
+    {
+        "descricao_recurso":"Aluminio",
+        "total_utilizado":100
+    },
+    {
+        "descricao_recurso":"Aco Estrutural",
+        "total_utilizado":50
+    },
+    {
+        "descricao_recurso":"Servo Motor",
+        "total_utilizado":40
+    }
+]
